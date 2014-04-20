@@ -1,0 +1,30 @@
+	body{
+            background-color: #75715e;
+         }
+         .text{
+            visibility: hidden;
+            opacity: 0.4;
+            -webkit-user-select: none;
+            cursor:not-allowed;
+         }
+         .textHL{
+            font-size:20;
+            opacity: 1;
+            -webkit-user-select: none;
+            cursor:not-allowed;
+         }
+         .edge{
+            stroke: #ccc;
+            stroke-width: 1;
+            opacity: 0.2;
+         }
+         .node{
+            opacity: 0.4;
+            stroke-width: 0;
+         }
+         .nodeHL{
+            fill: lightsteelblue;
+            opacity: 1.0;
+            stroke-width: 2;
+            stroke: white;
+         }
