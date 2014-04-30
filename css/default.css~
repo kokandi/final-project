@@ -8,6 +8,7 @@
             cursor:not-allowed;
          }
          .textHL{
+            font-size:20;
             opacity: 1;
             -webkit-user-select: none;
             cursor:not-allowed;
